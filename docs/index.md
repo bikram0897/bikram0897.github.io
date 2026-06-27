@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Bikram Biswas</h1>
+  <p><strong>GIS ANALYST I</strong></p>
+  <p><em>[Turning spatial data into insights | GIS | Remote Sensing | Python | SQL]</em></p>
 </div>
 
 ---
@@ -32,15 +32,15 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am Bikram Biswas, a GIS professional with expertise in geospatial data management, spatial analysis, remote sensing, and GIS-based decision support systems. With a Master's degree in Geographic Information Systems (GIS) from Bangalore University and hands-on industry experience across geospatial projects, I specialize in transforming complex spatial data into actionable insights for planning, asset management, and location-based decision-making.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+My professional journey includes working on spatial data digitization, georeferencing, database management, land record mapping, web GIS applications, mobile GIS data collection, and GIS training programs. I have successfully contributed to projects involving cadastral mapping, deed plot digitization, CRM tract development, DGPS-based surveys, and interactive web mapping solutions while maintaining high standards of data quality and accuracy.
+
+I am proficient in industry-leading geospatial technologies including ArcGIS Pro, QGIS, ERDAS Imagine, ArcGIS Online, AutoCAD Map 3D, ODK Collect, QField, SQL, and Google Earth Pro. My approach combines technical expertise, analytical thinking, and effective stakeholder communication to deliver reliable geospatial solutions for diverse business and organizational needs.
+
+Beyond technical execution, I am passionate about knowledge sharing and have trained students, interns, and professionals from reputed institutions such as Bangalore University, BMS College of Engineering, St. Joseph's University, Mount Carmel College, and NIE Mysore in GIS concepts and applications.
+
+Currently, I am seeking opportunities as a GIS Analyst, Geospatial Analyst, GIS Specialist, Spatial Data Analyst, or Remote Sensing Professional where I can leverage my technical expertise, project experience, and passion for geospatial technologies to support innovative and data-driven solutions.
 
 </div>
 
@@ -53,7 +53,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/BikramBiswas-CV.pdf){ .md-button }
 
 
 ---
@@ -118,5 +118,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/bikram0897){ .md-button }
+[LinkedIn](https://linkedin.com/in/bikramgis408){ .md-button }
